@@ -14,7 +14,7 @@ namespace DataAccessLayer
         {
             products.Add(new Product() { Name="Apple", Category="Fruit", Description = "Item1", Prize = 10});
             products.Add(new Product() { Name = "Mango", Category = "Fruit", Description = "Item2", Prize = 20 });
-            products.Add(new Product() { Name = "Banana", Category = "Fruit", Description = "Item3", Prize = 5 });
+            products.Add(new Product() { Name = "Grapes", Category = "Fruit", Description = "Item3", Prize = 5 });
 
             return products;
         }
